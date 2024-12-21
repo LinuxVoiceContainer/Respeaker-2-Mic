@@ -132,7 +132,7 @@ TICK_TIME: 0
 ```
 
 Looks like the drivers are lagging or botched again which from experience happens quite regular.
-I don't fancy that rabbit hole and seraching for a fix just going to use a stereo ADC USB soundcard
+I don't fancy that rabbit hole and seraching for a fix just going to use a stereo ADC USB soundcard for now which does work...
 
 
   
