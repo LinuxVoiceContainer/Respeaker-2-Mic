@@ -24,7 +24,7 @@ Download and flash a 64bit version of PiOS Lite to your SD card and provide the 
 ```
 sudo apt update
 sudo apt upgrade
-sudo apt reboot
+sudo reboot
 ```
 Install the respeaker driver
 ```
